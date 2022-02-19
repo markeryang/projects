@@ -1,0 +1,12 @@
+test = {   'name': 'q4ai2',
+    'points': 2,
+    'suites': [   {   'cases': [   {'code': '>>> answer[0].shape == (5605, 10)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> answer[1].shape == (5605,)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> answer[2].shape == (590, 10)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> answer[3].shape == (590,)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> answer2[0].shape == (4355, 10)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> answer2[1].shape == (4355,)\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
